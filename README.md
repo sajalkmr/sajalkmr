@@ -2,8 +2,9 @@
 
 
 <br>
+
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="200"/>
 </div>
 
 <br>
