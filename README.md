@@ -4,7 +4,7 @@
 <br>
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="200"/>
+  <img src="Gif/totoro.gif" width="300"/>
 </div>
 
 <br>
