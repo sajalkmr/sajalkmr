@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-<!--
-**sajalkmr/sajalkmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gFPxNhzEWdFCCRAqf0/giphy.gif" width="100"/>
+<br>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/arxiLc5EiFhja/giphy.gif" width="300"/>
 </div>
 
-
-Here are some ideas to get you started:
+<br>
 
 - 🔭 I’m currently working on my personal website.
 - 🌱 I’m currently learning c language and web development.
@@ -18,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
