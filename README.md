@@ -16,15 +16,15 @@
 
 
 <div id="badges">
-  <a href="https://t.me/sajalkmr">
+  <a href="https://t.me/sajalkmr" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-red?color=blue&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/sajalkmr/">
+  <a href="https://www.linkedin.com/in/sajalkmr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-   <a href="https://twitter.com/sajalkmr18">
+   <a href="https://twitter.com/sajalkmr18" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 <!---
