@@ -16,7 +16,7 @@
 
 
 <div id="badges">
-  <a href="https://t.me/sajalkmr" target="_blank">
+  <a href="https://t.me/sajalkmr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Telegram-red?color=blue&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
   
