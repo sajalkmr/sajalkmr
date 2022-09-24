@@ -4,8 +4,8 @@
 <br>
 
 <div id="header" align="left">
-  <img src="Gif/totoro.gif" width="250" />
-  <img src="Gif/hiking-rounded.gif" width="380" hspace="35"/>
+  <img src="Gif/totoro.gif" width="250" hspace="20" />
+  <img src="Gif/hiking-rounded.gif" width="380" hspace="45"/>
 </div>
 
 <br>
