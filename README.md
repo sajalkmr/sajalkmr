@@ -9,8 +9,8 @@
 
 <br>
 
-- 🔭 I’m currently working on my <a href="https://sajalkmr.github.io"> personal website</a>.
-- 🌱 I’m currently learning c language and web development.
+- 🔭 I’m currently working on <a href="https://www.theodinproject.com/"> theodinproject</a>.
+- 🌱 I’m currently learning C language and Web development.
 - 💬 Ask me about anything.
 
 
