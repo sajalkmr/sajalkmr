@@ -38,6 +38,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
+  <a href="https://forum.xda-developers.com/m/sajalkmr.7525036/" target="_blank">
+    <img src="https://img.shields.io/badge/XDA-%23AC6E2F.svg?style=flat-square&logo=XDA-Developers&logoColor=white" alt="xda badge"/>
+  </a>
+  
+  
+  
   <a href="mailto:sajal.kumar2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="gamil badge"/>
   </a>
