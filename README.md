@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 I’m currently working on <a href="https://www.theodinproject.com/"> theodinproject</a>.
+<!-- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning C language and Web development.
 - 💬 Ask me about anything.
 
@@ -44,7 +44,7 @@
   
   
   
-  <a href="mailto:sajal.kumar2003@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="gamil badge"/>
   </a>
   <br></br>
