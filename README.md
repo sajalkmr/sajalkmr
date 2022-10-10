@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on <a href="https://www.theodinproject.com/"> theodinproject</a>.
 - 🌱 I’m currently learning C language and Web development.
 - 💬 Ask me about anything.
+- 🌟 A wonderful earth angel. 
 
 
 
