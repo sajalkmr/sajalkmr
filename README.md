@@ -9,8 +9,8 @@
 
 <br>
 
-<!-- 🔭 I’m currently working on -->
-- 🌱 I’m currently learning C language and Web development.
+- 🤖 Engineering Freshman.
+- 🧑‍💻 Currently learning C & C++
 - 💬 Ask me about anything.
 
 
