@@ -34,7 +34,7 @@
   </a>
   
   <a href="https://www.discordapp.com/users/785875026007294022" target="_blank">
-    <img src="https://img.shields.io/badge/discord-darkblue?style=flat-square&logo=discord&logoColor=white" alt="discord"/>
+    <img src="https://img.shields.io/badge/Discord-darkblue?style=flat-square&logo=discord&logoColor=white" alt="discord"/>
   </a>
   
   <a href="https://forum.xda-developers.com/m/sajalkmr.7525036/" target="_blank">
