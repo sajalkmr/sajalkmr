@@ -33,6 +33,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
+  <a href="https://www.discordapp.com/users/785875026007294022" target="_blank">
+    <img src="https://img.shields.io/badge/discord-darkblue?style=flat-square&logo=discord&logoColor=white" alt="discord"/>
+  </a>
+  
   <a href="https://forum.xda-developers.com/m/sajalkmr.7525036/" target="_blank">
     <img src="https://img.shields.io/badge/XDA-%23AC6E2F.svg?style=flat-square&logo=XDA-Developers&logoColor=white" alt="xda badge"/>
   </a>
@@ -43,7 +47,14 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="gamil badge"/>
   </a>
   <br></br>
-  <p align="left"> <a href="https://github.com/sajalkmr"><img src="https://komarev.com/ghpvc/?username=sajalkmr&label=Profile%20views&color=0e75b6&style=flat" alt="sajalkmr" /></a> </p>
+  <p align="left"> <a href="https://github.com/sajalkmr"><img src="https://komarev.com/ghpvc/?username=sajalkmr&label=Profile%20views&color=0e75b6&style=flat" alt="sajalkmr" /></a> 
+  
+ 
+  
+
+</p>
+  
+
   
   
   </div>
