@@ -1,16 +1,11 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 
-<br>
 
-<div id="header" align="left">
-  <img src="Gif/hiking-rounded.gif" width="380" hspace="15"/>
-</div>
 
-<br>
 
-- 🤖 Engineering Freshman.
-- 🧑‍💻 Currently learning C & C++
+- 🤖 I'm an Engineering Freshman.
+- 🧑‍💻 Currently learning C & C++.
 - 💬 Ask me about anything.
 
 
