@@ -5,18 +5,11 @@
 
 
 - 🤖 I'm an Engineering Freshman.
-- 🧑‍💻 Currently learning C & C++.
+- 🧑‍💻 Currently learning lots of things.
 - 💬 Ask me about anything.
 
 
 
-
-## 💼 Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 ## 💬 Connect with me : 
