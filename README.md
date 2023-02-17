@@ -30,9 +30,7 @@
     <img src="https://img.shields.io/badge/Discord-darkblue?style=flat-square&logo=discord&logoColor=white" alt="discord"/>
   </a>
   
-  <a href="https://forum.xda-developers.com/m/sajalkmr.7525036/" target="_blank">
-    <img src="https://img.shields.io/badge/XDA-%23AC6E2F.svg?style=flat-square&logo=XDA-Developers&logoColor=white" alt="xda badge"/>
-  </a>
+  
   
   
   
