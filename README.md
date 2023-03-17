@@ -34,10 +34,8 @@
   
   
   
-  <a href="">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="gamil badge"/>
-  </a>
-  <br></br>
+
+  <br>
   <p align="left"> <a href="https://github.com/sajalkmr"><img src="https://komarev.com/ghpvc/?username=sajalkmr&label=Profile%20views&color=0e75b6&style=flat" alt="sajalkmr" /></a> 
   
  
