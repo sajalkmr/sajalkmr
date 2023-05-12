@@ -1,6 +1,6 @@
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-
-
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> 
+<br>
+  <p align="left"> <a href="https://github.com/sajalkmr"><img src="https://komarev.com/ghpvc/?username=sajalkmr&label=Profile%20views&color=0e75b6&style=flat" alt="sajalkmr" /></a> 
 
 
 
@@ -30,13 +30,9 @@
     <img src="https://img.shields.io/badge/Discord-darkblue?style=flat-square&logo=discord&logoColor=white" alt="discord"/>
   </a>
   
-  
-  
-  
-  
 
   <br>
-  <p align="left"> <a href="https://github.com/sajalkmr"><img src="https://komarev.com/ghpvc/?username=sajalkmr&label=Profile%20views&color=0e75b6&style=flat" alt="sajalkmr" /></a> 
+
   
  
   
