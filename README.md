@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-   <a href="https://twitter.com/sajalkmr18" target="_blank">
+   <a href="https://twitter.com/sajalkmrx" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
