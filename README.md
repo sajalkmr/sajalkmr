@@ -4,13 +4,6 @@
 
 
 
-- 🤖 I'm an Engineering Freshman.
-- 🧑‍💻 Currently learning lots of things.
-- 💬 Ask me about anything.
-
-
-
-
 
 ## 💬 Connect with me : 
 <div id="badges">
