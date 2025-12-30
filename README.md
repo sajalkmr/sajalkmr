@@ -30,7 +30,7 @@
       </a>
     </td>
     <td>
-      <a href="https://sajalkmr.tech" target="_blank" rel="noopener noreferrer">
+      <a href="https://sajalkmr.site" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/aboutdotme.svg" alt="Website" width="30" height="30"/>
   </a>
     </td>
